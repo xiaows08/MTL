@@ -109,7 +109,7 @@ ITEM_PIPELINES = {
    # 'MTL.pipelines.MtlPipeline': 300,
    'MTL.pipelines.MtlImgDownloadPipeline': 300,
 }
-IMAGES_STORE = '/mtl'
+IMAGES_STORE = '/mtl_download'
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True
