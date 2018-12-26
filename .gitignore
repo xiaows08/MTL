@@ -1,1 +1,5 @@
 /MTL/__pycache__/
+.DS_Store
+.idea/
+MTL/.DS_Store
+MTL/spiders/__pycache__/
